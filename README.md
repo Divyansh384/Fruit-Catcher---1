@@ -1,2 +1,1 @@
-# Fruit-Catcher---1
-Made in Visual Studio Code
+# C39-Debug-Part-1
